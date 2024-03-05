@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Hero.module.css";
-import { FaGithub, FaLinkedinIn, FaSquareFacebook, FaInstagram } from "react-icons/fa6";
+import { FaGithub, FaTwitch, FaSquareFacebook, FaInstagram } from "react-icons/fa6";
 import { TypeAnimation } from "react-type-animation";
 import Tilt from "react-parallax-tilt";
 
@@ -39,12 +39,12 @@ function Hero() {
                 </a>
               </li>
               <li>
-                <a href="https://linkedin.com/in/pathapol-jomsawan-bh13">
-                  <FaLinkedinIn />
+                <a href="https://www.twitch.tv/tomyalonefeel">
+                  <FaTwitch />
                 </a>
               </li>
               <li>
-                <a href="https://www.facebook.com/PzPraptZa/">
+                <a href="https://www.facebook.com/atom.wissawa/">
                   <FaSquareFacebook />
                 </a>
               </li>
