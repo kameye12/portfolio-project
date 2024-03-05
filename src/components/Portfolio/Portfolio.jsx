@@ -12,7 +12,7 @@ function Portfolio() {
         </div>
         <div className={styles.port_items}>
             <img src="src/components/Portfolio/unnamed.png" alt="" />
-            <p>Speech to Text North Thai Language</p>
+            <p>Premier Champion Valorant</p>
         </div>
         <div className={styles.port_items}>
             <img src="src/components/Portfolio/animal-kingdom_27c5571306.jpg" alt="" />
