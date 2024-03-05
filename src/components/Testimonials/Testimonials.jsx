@@ -33,10 +33,10 @@ function Testimonials() {
             Nice for Webdevelopment.
           </p>
           <img
-            src="src/components/Testimonials/atom.jpg"
+            src="src/components/Testimonials/Pratp.jpg"
             alt=""
           />
-          <h4>Atom</h4>
+          <h4>Pratp</h4>
           <p className={styles.bio}>Web Developer</p>
         </div>
       </div>
